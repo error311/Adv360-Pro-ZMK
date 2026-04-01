@@ -79,11 +79,11 @@
 
         SYM2 {
             bindings = <
-&trans  &trans         &trans           &trans            &trans                &trans          &trans                                      &trans  &trans     &trans                 &trans             &trans           &trans            &trans
-&trans  &trans         &kp ASTERISK     &kp PLUS          &kp AMPERSAND         &trans          &trans                                      &trans  &trans     &kp PIPE               &kp EQUAL          &kp SLASH        &trans            &trans
-&trans  &kp LESS_THAN  &kp LEFT_BRACE   &kp LEFT_BRACKET  &kp LEFT_PARENTHESIS  &kp UNDERSCORE  &trans  &trans  &trans      &trans  &trans  &trans  &kp MINUS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp GREATER_THAN  &trans
-&trans  &trans         &kp EXCLAMATION  &kp HASH          &kp DOLLAR            &trans                          &trans      &trans                  &trans     &kp TILDE              &kp GRAVE          &kp BACKSLASH    &trans            &trans
-&trans  &trans         &trans           &trans            &trans                                &trans  &trans  &trans      &trans  &trans  &trans             &trans                 &trans             &trans           &trans            &trans
+&trans  &trans         &trans           &trans            &trans                &trans          &trans                                      &trans  &trans             &trans                 &trans             &trans           &trans            &trans
+&trans  &trans         &kp ASTERISK     &kp PLUS          &kp AMPERSAND         &trans          &trans                                      &trans  &trans             &kp PIPE               &kp EQUAL          &kp SLASH        &trans            &trans
+&trans  &kp LESS_THAN  &kp LEFT_BRACE   &kp LEFT_BRACKET  &kp LEFT_PARENTHESIS  &kp UNDERSCORE  &trans  &trans  &trans      &trans  &trans  &trans  &kp MINUS          &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp GREATER_THAN  &trans
+&trans  &trans         &kp EXCLAMATION  &kp HASH          &kp DOLLAR            &kp SQT                         &trans      &trans                  &kp DOUBLE_QUOTES  &kp TILDE              &kp GRAVE          &kp BACKSLASH    &trans            &trans
+&trans  &trans         &trans           &trans            &trans                                &trans  &trans  &trans      &trans  &trans  &trans                     &trans                 &trans             &trans           &trans            &trans
             >;
         };
 
