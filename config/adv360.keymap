@@ -45,12 +45,6 @@
             key-positions = <32 41>;
             layers = <0 5>;
         };
-
-        test {
-            bindings = <&bl BL_TOG>;
-            key-positions = <34>;
-            layers = <0 5>;
-        };
     };
 
     macros {
