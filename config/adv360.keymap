@@ -51,14 +51,14 @@
         nohomerowtoggle: nohomerowtoggle {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&tog 5 &bl BL_ON>;
+            bindings = <&to 5 &bl BL_ON>;
             label = "NOHOMEROWTOGGLE";
         };
 
         homerowmods: homerowmods {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&tog 0 &bl BL_OFF>;
+            bindings = <&to 0 &bl BL_OFF>;
             label = "HOMEROWMODS";
         };
     };
